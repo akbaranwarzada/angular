@@ -14,6 +14,8 @@
     "angular"
   ],
   "author": "Akbar",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  }
 }
-con
