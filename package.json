@@ -1,0 +1,19 @@
+{
+  "name": "angular",
+  "version": "1.0.0",
+  "description": "forLearningPurpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "angular"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "author": "Akbar",
+  "license": "UNLICENSED"
+}
+con
